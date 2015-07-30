@@ -1,0 +1,21 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: colin
+  login: colin
+  email: colin@cwoodford.com
+  url: ''
+author_login: colin
+author_email: colin@cwoodford.com
+wordpress_id: 1160
+wordpress_url: http://colinwoodford.com/?p=1160
+date: '2011-09-15 12:05:04 -0400'
+date_gmt: '2011-09-15 19:05:04 -0400'
+categories: []
+tags: []
+comments: []
+---
+<p>Designed the first outerwear collection for Royal Robbins in 1992 to 1993 and also designed the signature shirts and pants for hiking.</p>
+<p>&nbsp;</p>

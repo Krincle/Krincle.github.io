@@ -1,0 +1,21 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: colin
+  login: colin
+  email: colin@cwoodford.com
+  url: ''
+author_login: colin
+author_email: colin@cwoodford.com
+wordpress_id: 1151
+wordpress_url: http://colinwoodford.com/?p=1151
+date: '2011-09-15 12:05:03 -0400'
+date_gmt: '2011-09-15 19:05:03 -0400'
+categories: []
+tags: []
+comments: []
+---
+<p>Working with Henry Grethel, President of Manhattan Industries, Colin Woodford designed the Mens Sportwear and Outerwear lines from 1982 to 1986 including the legendary Mini-Snap Crunch Sport Shirt.</p>
+<p>[nggallery id=15]</p>

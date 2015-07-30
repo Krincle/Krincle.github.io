@@ -1,0 +1,31 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: colin
+  login: colin
+  email: colin@cwoodford.com
+  url: ''
+author_login: colin
+author_email: colin@cwoodford.com
+wordpress_id: 1152
+wordpress_url: http://colinwoodford.com/?p=1152
+date: '2011-09-15 12:05:03 -0400'
+date_gmt: '2011-09-15 19:05:03 -0400'
+categories: []
+tags: []
+comments: []
+---
+<p>&ldquo;Henry Jacobson&hellip;cool California lifestyle clothes.&rdquo; DNR July 25th, 2005</p>
+<p>As Henry Jacobson&rsquo;s &lsquo;Creative Partner&rsquo; from 2003 to 2006, Colin Woodford not only designed a complete menswear collection but assisted Henry in bringing the Henry Jacobson Collection to New York&rsquo;s Bryant Park fashion shows by building and managing a complete design team, development, resource, and manufacturing structure.</p>
+<p>[nggallery id=8]</p>
+<p>&nbsp;<br />
+Exclusive Yarns & Knitdowns<br />
+[nggallery id=27]</p>
+<p>&nbsp;<br />
+Sweater Sketches<br />
+[nggallery id=28]</p>
+<p>&nbsp;<br />
+Exclusive Yarn Dye Development<br />
+[nggallery id=24]</p>
