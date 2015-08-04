@@ -18,6 +18,18 @@ categories: []
 tags: []
 comments: []
 ---
+<link rel="stylesheet" type="text/css" media="all" href="http://colinwoodforddesign.com/wp-content/themes/sakura/css/html5reset.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://colinwoodforddesign.com/wp-content/themes/sakura/css/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://colinwoodforddesign.com/wp-content/themes/sakura/css/night.css" />
+
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="all" href="http://colinwoodforddesign.com/wp-content/themes/sakura/css/old_ie.css" /><![endif]-->
+
+<link rel="stylesheet" type="text/css" media="all" href="http://colinwoodforddesign.com/wp-content/themes/sakura/css/shortcodes.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://colinwoodforddesign.com/wp-content/themes/sakura/css/wp.css" />
+<!--
+<link rel="stylesheet" type="text/css" media="all" href="http://colinwoodforddesign.com/wp-content/themes/sakura/js/lb/lightbox-gallery.css" />
+-->
+<link rel="stylesheet" type="text/css" media="all" href="http://colinwoodforddesign.com/wp-content/themes/sakura/js/pf/css/prettyPhoto.css" />
 <p style="text-align: left;"><strong><span style="color: #303030; font-family: 'times new roman', times; font-size: medium;">Travel &amp; Safari Clothing Co.<&#47;span><&#47;strong><&#47;p><br />
 Colin Woodford, reporting to the Zieglers, the original founders of Banana Republic, as senior menswear designer from 1986 to 1988, diversified the product mix and expanded all product categories including designing exclusive fabrics, which exceeded projected growth to $300 million through his specialty in design and global sourcing.</p>
 <p>[nggallery id=9]</p>
