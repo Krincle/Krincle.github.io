@@ -91,13 +91,123 @@ Designed and developed an exclusive menswear collection for the USA market acros
 		<a href="/portfolio/paul-shark/ps20.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps20.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
 
 		<a href="/portfolio/paul-shark/ps21.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps21.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
-
+	<br />
 		<a href="/portfolio/paul-shark/ps22.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps22.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
 
 		<a href="/portfolio/paul-shark/ps23.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps23.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
-
+	<br />
 		<a href="/portfolio/paul-shark/ps24.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps24.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
 
 		<a href="/portfolio/paul-shark/ps25.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps25.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+	<br />
+		<a href="/portfolio/paul-shark/ps26.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps26.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps27.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps27.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+	</div>
+
+	<br />
+
+	Outerwear Sketches
+	<div class="gallery-one-line">
+		<a href="/portfolio/paul-shark/ps28.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps28.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps29.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps29.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<br />
+		<a href="/portfolio/paul-shark/ps30.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps30.jpg" alt=""></a>
+		<br />
+		<a href="/portfolio/paul-shark/ps31.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps31.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps32.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps32.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+		<br />
+		<a href="/portfolio/paul-shark/ps33.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps33.jpg" alt=""></a>
+		<br />
+
+		<a href="/portfolio/paul-shark/ps34.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps34.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps35.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps35.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<br />
+
+		<a href="/portfolio/paul-shark/ps36.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps36.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps37.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps37.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<br />
+
+		<a href="/portfolio/paul-shark/ps38.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps38.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps39.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps39.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<br />
+
+		<a href="/portfolio/paul-shark/ps40.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps40.jpg" alt=""></a>
+	</div>
+
+		<br />
+		Fabric Concept and Direction
+		<br /><br />
+		Newport Stripes
+		<br />
+	<div class="gallery-one-line">
+		<a href="/portfolio/paul-shark/ps41.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps41.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps42.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps42.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+	<br />
+		<a href="/portfolio/paul-shark/ps43.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps43.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps44.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps44.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+	<br />
+		<a href="/portfolio/paul-shark/ps45.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps45.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps46.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps46.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+	<br />
+		<a href="/portfolio/paul-shark/ps47.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps47.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps48.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps48.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+	</div>
+
+	<br />
+
+	Vintage White
+	<div class="gallery-one-line">
+		<a href="/portfolio/paul-shark/ps49.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps49.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps50.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps50.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+	<br />
+		<a href="/portfolio/paul-shark/ps51.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps51.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps52.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps52.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+	<br />
+		<a href="/portfolio/paul-shark/ps53.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps53.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps54.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps54.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+	<br />
+		<a href="/portfolio/paul-shark/ps55.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps55.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps56.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps56.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+	</div>
+
+	<br />
+
+	Cruise
+	<div class="gallery-one-line">
+		<a href="/portfolio/paul-shark/ps57.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps57.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps58.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps58.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+	<br />
+		<a href="/portfolio/paul-shark/ps59.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps59.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps60.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps60.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+	<br />
+		<a href="/portfolio/paul-shark/ps61.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps61.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps62.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps62.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+	<br />
+		<a href="/portfolio/paul-shark/ps63.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps63.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps64.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps64.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
 	</div>
 </div>
