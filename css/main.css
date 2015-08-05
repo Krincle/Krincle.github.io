@@ -20,15 +20,15 @@ a:hover {
 	text-decoration: underline;
 }
 
-div {
+body {
 	font-family: proxima-nova-alt, 'Proxima Nova Alt', sans-serif;
 	font-kerning: auto;
-	font-size: 24px;
 	font-stretch: normal;
 	font-style: normal;
 	font-variant: normal;
 	font-variant-ligatures: normal;
 	font-weight: normal;
+	font-size: 16pt;
 }
 
 .post-title {
@@ -192,4 +192,9 @@ h1 {
 
 .dots {
 	display: none;
+}
+
+.site-footer {
+	text-align: center;
+	font-size: 10pt;
 }
