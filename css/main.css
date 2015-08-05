@@ -93,3 +93,11 @@ div {
 .privacy-policy-list {
 	list-style-position: inside;
 }
+
+.post-link {
+	font-size: 16pt;
+}
+
+.post-meta {
+	font-size: 12pt;
+}
