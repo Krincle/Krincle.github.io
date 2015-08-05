@@ -18,3 +18,26 @@
 	border: 1px solid white;
 	margin: 0 auto;
 }
+
+.frontpage-posts {
+	text-align: center;
+	margin: 20px auto;
+}
+
+.navigation {
+	font-size: 24px;
+	margin: 0 auto;
+}
+
+.navigation li {
+	display: inline-block;
+}
+
+.logo {
+	vertical-align: bottom;
+}
+
+.site-header {
+	text-align: center;
+	margin: 20px auto;
+}
