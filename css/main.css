@@ -1,21 +1,23 @@
 body {
-	background-color: rgb(91, 77, 61);
-	color: #000;
+	background-color: #303030;
+	color: white;
 	text-align: left;
 }
 
 a {
 	text-decoration: none;
-	color: white;
+	color: #DDDDDD;
 	font-family: bree-web, Bree, sans-serif;
 	font-kerning: auto;
-	font-size: 28px;
 	font-stretch: normal;
 	font-style: normal;
 	font-variant: normal;
 	font-variant-ligatures: normal;
 	font-weight: 300;
+}
 
+a:hover {
+	text-decoration: underline;
 }
 
 div {
@@ -84,5 +86,109 @@ div {
 
 .site-header {
 	text-align: center;
-	margin: 20px auto;
+	margin: 0 auto;
+}
+
+.post-content {
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.privacy-policy-list {
+	list-style-position: inside;
+}
+
+.post-link {
+	font-size: 16pt;
+}
+
+.post-meta {
+	font-size: 12pt;
+}
+
+.tagline {
+	text-align: center;
+}
+.tagline div {
+	margin: 0 auto;
+}
+
+.clear {
+	clear: both;
+}
+
+.about_t{
+	background-blend-mode: normal;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background: rgba(0, 0, 0, 0) url(http://colinwoodforddesign.com/wp-content/themes/sakura/images/night_about_t.png) no-repeat scroll 50% 0;
+	background-size: auto;
+	display: block;
+	height: 21px;
+	width: 980px;
+
+}
+
+.about{
+	background-blend-mode: normal;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+	background-size: auto;
+	display: block;
+	font-family: body-font, sans-serif;
+	font-kerning: auto;
+	font-size: 16pt;
+	font-stretch: normal;
+	font-style: italic;
+	font-variant: normal;
+	font-variant-ligatures: normal;
+	font-weight: normal;
+	padding: 13px 0;
+	width: 940px;
+	text-align: center;
+}
+
+.about_b {
+	background-blend-mode: normal;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background: rgba(0, 0, 0, 0) url(http://colinwoodforddesign.com/wp-content/themes/sakura/images/night_about_b.png) no-repeat scroll 50% 100%;
+	background-size: auto;
+	display: block;
+	height: 46px;
+	width: 898px;
+}
+
+.portfolio-list {
+	list-style-type: none;
+	line-height: 1.5;
+	text-align: center;
+}
+
+.top-menu {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	z-index: 999;
+}
+
+h1 {
+	font-size: 24pt;
+}
+
+.post-title {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	top: 300px;
+	z-index: 999;
+}
+
+.dots {
+	display: none;
 }
