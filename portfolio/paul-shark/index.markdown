@@ -24,4 +24,11 @@ comments: []
 	<a href="/portfolio/paul-shark/ps1.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps1.jpg" class="gallery-paul-shark" alt="" /></a>
 
 	<a href="/portfolio/paul-shark/ps2.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps2.jpg" class="gallery-paul-shark" alt="" /></a>
+
+	<a href="/portfolio/paul-shark/ps3.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps3.jpg" class="gallery-paul-shark" alt="" /></a>
+
+
+	Pigment Overdyed Sweaters
+
+
 </div>
