@@ -6,7 +6,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: white;
+	color: #DDDDDD;
 	font-family: bree-web, Bree, sans-serif;
 	font-kerning: auto;
 	font-stretch: normal;
@@ -14,6 +14,10 @@ a {
 	font-variant: normal;
 	font-variant-ligatures: normal;
 	font-weight: 300;
+}
+
+a:hover {
+	text-decoration: underline;
 }
 
 div {
@@ -173,4 +177,18 @@ div {
 
 h1 {
 	font-size: 24pt;
+}
+
+.post-title {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	top: 300px;
+	z-index: 999;
+}
+
+.dots {
+	display: none;
 }
