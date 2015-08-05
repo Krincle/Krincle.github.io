@@ -1,0 +1,20 @@
+.post-title {
+	text-align: center;
+	color: white;
+}
+
+.main-text {
+	font-size: 18px;
+	margin: 10px 100px 10px 100px;
+}
+
+.gallery-paul-shark {
+	width: 538px;
+	height: 738px;
+}
+
+.gallery {
+	text-align: center;
+	border: 1px solid white;
+	margin: 0 auto;
+}
