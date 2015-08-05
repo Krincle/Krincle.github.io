@@ -82,7 +82,7 @@ div {
 
 .site-header {
 	text-align: center;
-	margin: 20px auto;
+	margin: 0 auto;
 }
 
 .post-content {
@@ -113,7 +113,7 @@ div {
 	clear: both;
 }
 
-#about_t{
+.about_t{
 	background-blend-mode: normal;
 	background-clip: border-box;
 	background-origin: padding-box;
@@ -125,7 +125,7 @@ div {
 
 }
 
-#about{
+.about{
 	background-blend-mode: normal;
 	background-clip: border-box;
 	background-origin: padding-box;
@@ -145,7 +145,7 @@ div {
 	text-align: center;
 }
 
-#about_b {
+.about_b {
 	background-blend-mode: normal;
 	background-clip: border-box;
 	background-origin: padding-box;
@@ -160,4 +160,17 @@ div {
 	list-style-type: none;
 	line-height: 1.5;
 	text-align: center;
+}
+
+.top-menu {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	z-index: 999;
+}
+
+h1 {
+	font-size: 24pt;
 }

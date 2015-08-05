@@ -1,27 +1,10 @@
 ---
 layout: default
 ---
-<div class="banner has-dots" style="overflow: hidden; width: 100%; height: 415px;">
-	<ul style="width: 400%; position: relative; left: -200%; height: 415px;">
-		<li style="width: 25%; background-image: url(http://unslider.com/img/sunset.jpg); background-size: 100% 100%;">
-		</li>
-
-		<li style="width: 25%; background-image: url(http://unslider.com/img/wood.jpg); background-size: 100% 100%;">
-		</li>
-
-		<li style="width: 25%; background-image: url(http://unslider.com/img/subway.jpg); background-size: 100% 100%;">
-		</li>
-
-		<li style="width: 25%; background-image: url(http://unslider.com/img/shop.jpg); background-size: 100% 100%;">
-		</li>
-	</ul>
-	<ol class="dots"><li class="dot">1</li><li class="dot">2</li><li class="dot">3</li><li class="dot">4</li></ol>
-</div>
-
 <div class="tagline">
-	<div id="about_t"></div>
-	<div id="about">Creating new lifestyle concepts, products, and menswear collections.</div>
-	<div id="about_b"></div>
+	<div class="about_t"></div>
+	<div class="about">Creating new lifestyle concepts, products, and menswear collections.</div>
+	<div class="about_b"></div>
 </div>
 
 <div class="frontpage-posts">
@@ -37,20 +20,3 @@ layout: default
     {% endfor %}
   </ul>
 </div>
-
-<script src="/js/unslider.min.js"></script>
-<script>
-$(function() {
-    var slidey = $('.banner').unslider({
-		speed: 500,               //  The speed to animate each slide (in milliseconds)
-		delay: 3000,              //  The delay between slide animations (in milliseconds)
-		complete: function() {},  //  A function that gets called after every slide animation
-		keys: true,               //  Enable keyboard (left, right) arrow shortcuts
-		dots: true,               //  Display dot navigation
-		fluid: false
-    }),
-    data = slidey.data('unslider');
-	data.dots();
-});
-
-</script>

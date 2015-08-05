@@ -1,39 +1,44 @@
 <header class="site-header">
-<div>
-  <a class="logo" href="/"><img src="/images/logo.png" alt="Colin Woodford &#8211; The Art Of Style: Presenting the Date shirt collection"/></a>
+    <div class="top-menu">
+        <a class="logo" href="/"><img src="/images/logo.png" alt="Colin Woodford &#8211; The Art Of Style: Presenting the Date shirt collection"/></a>
 
-  <ul class="navigation">
-    <li><a href="/portfolio/">Portfolio / Clients</a>
+        <ul class="navigation">
+            <li><a href="/portfolio/">Portfolio / Clients</a>
+            <li><a href="/privacy-policy/">Privacy Policy</a></li>
+            <li><a href="/what-i-do/">What I Do</a></li>
+            <li><a href="/bio/">Bio</a></li>
+            <li><a href="/contact/">Contact</a></li>
+        </ul>
+    </div>
 
-    <div><ul class='children' style="display: none;">
-      <li class="top"><a href="/portfolio/banana-reoublictravel-safari-clothing-co/">Banana Republic</a></li>
-      <li><a href="/portfolio/country-road-austrailia/">Country Road Australia</a></li>
-      <li><a href="/portfolio/sample/">Ermenegildo Zegna</a></li>
-      <li><a href="/portfolio/head-sportswear/">Head Sportswear</a></li>
-      <li><a href="/portfolio/henry-grethel/">Henry Grethel</a></li>
-      <li><a href="/portfolio/henry-jacobson/">Henry Jacobson</a></li>
-      <li><a href="/portfolio/j-c-penny/">J.C. Penney</a></li>
-      <li><a href="/portfolio/j-l-powell-usa-the-sporting-life/">J.L. Powell USA</a></li>
-      <li><a href="/portfolio/john-deere-workwear/">John Deere</a></li>
-      <li><a href="/portfolio/l-l-bean/">L.L. Bean</a></li>
-      <li><a href="/portfolio/levis-dockers/">Levi&#8217;s Dockers</a></li>
-      <li><a href="/portfolio/nordstrom/">Nordstrom</a></li>
-      <li><a href="/portfolio/paul-shark/">Paul &#038; Shark</a></li>
-      <li><a href="/portfolio/royal-robbins/">Royal Robbins</a></li>
-      <li><a href="/portfolio/simms-fishing/">Simms Fishing</a></li>
-      <li><a href="/portfolio/smith-haken/">Smith &#038; Hawken</a></li>
-      <li><a href="/portfolio/the-limited-inc/">The Limited Inc.</a></li>
-      <li><a href="/portfolio/the-north-facesteep-tech-illustrations/">The North Face</a></li>
-      <li><a href="/portfolio/the-orvis-co/">The Orvis Co.</a></li>
-      <li><a href="/portfolio/travel-smith/">TravelSmith</a></li>
-      <li><a href="/portfolio/wallsindustrial-workwear/">Walls</a></li>
-      <li><a href="/portfolio/woolrich/">Woolrich</a></li>
-    </ul></div>
-    </li>
-    <li><a href="/privacy-policy/">Privacy Policy</a></li>
-    <li><a href="/what-i-do/">What I Do</a></li>
-    <li><a href="/bio/">Bio</a></li>
-    <li><a href="/contact/">Contact</a></li>
-  </ul>
-</div>
+    <div class="banner has-dots" style="overflow: hidden; width: 100%; height: 415px;">
+      <ul style="width: 400%; position: relative; left: -200%; height: 415px;">
+        <li style="width: 25%; background-image: url(http://unslider.com/img/sunset.jpg); background-size: 100% 100%;">
+        </li>
+
+        <li style="width: 25%; background-image: url(http://unslider.com/img/wood.jpg); background-size: 100% 100%;">
+        </li>
+
+        <li style="width: 25%; background-image: url(http://unslider.com/img/subway.jpg); background-size: 100% 100%;">
+        </li>
+
+        <li style="width: 25%; background-image: url(http://unslider.com/img/shop.jpg); background-size: 100% 100%;">
+        </li>
+      </ul>
+      <ol class="dots"><li class="dot">1</li><li class="dot">2</li><li class="dot">3</li><li class="dot">4</li></ol>
+    </div>
 </header>
+
+<script src="/js/unslider.min.js"></script>
+<script>
+  $(function() {
+    $('.banner').unslider({
+      speed: 500,               //  The speed to animate each slide (in milliseconds)
+      delay: 3000,              //  The delay between slide animations (in milliseconds)
+      complete: function() {},  //  A function that gets called after every slide animation
+      keys: true,               //  Enable keyboard (left, right) arrow shortcuts
+      dots: false,               //  Display dot navigation
+      fluid: false
+    });
+  });
+</script>
