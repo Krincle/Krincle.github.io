@@ -101,3 +101,57 @@ div {
 .post-meta {
 	font-size: 12pt;
 }
+
+.tagline {
+	text-align: center;
+}
+.tagline div {
+	margin: 0 auto;
+}
+
+.clear {
+	clear: both;
+}
+
+#about_t{
+	background-blend-mode: normal;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background: rgba(0, 0, 0, 0) url(http://colinwoodforddesign.com/wp-content/themes/sakura/images/night_about_t.png) no-repeat scroll 50% 0;
+	background-size: auto;
+	display: block;
+	height: 21px;
+	width: 980px;
+
+}
+
+#about{
+	background-blend-mode: normal;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+	background-size: auto;
+	display: block;
+	font-family: body-font, sans-serif;
+	font-kerning: auto;
+	font-size: 16pt;
+	font-stretch: normal;
+	font-style: italic;
+	font-variant: normal;
+	font-variant-ligatures: normal;
+	font-weight: normal;
+	padding: 13px 0;
+	width: 940px;
+	text-align: center;
+}
+
+#about_b {
+	background-blend-mode: normal;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background: rgba(0, 0, 0, 0) url(http://colinwoodforddesign.com/wp-content/themes/sakura/images/night_about_b.png) no-repeat scroll 50% 100%;
+	background-size: auto;
+	display: block;
+	height: 46px;
+	width: 898px;
+}
