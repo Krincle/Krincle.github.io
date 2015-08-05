@@ -21,14 +21,23 @@ comments: []
 <div class="gallery">
 	<p>Designed and developed an exclusive menswear collection for the USA market across all categories from 2006 to 2009. Special features included the Cashmere Storm System line of outerwear and superfine merino wool knits and sweaters</p>
 
-	<a href="/portfolio/paul-shark/ps1.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps1.jpg" class="gallery-paul-shark" alt="" /></a>
+<div>
+	<a href="/portfolio/paul-shark/ps1.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps1.jpg" class="gallery-paul-shark" alt=""></a>
 
-	<a href="/portfolio/paul-shark/ps2.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps2.jpg" class="gallery-paul-shark" alt="" /></a>
-
-	<a href="/portfolio/paul-shark/ps3.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps3.jpg" class="gallery-paul-shark" alt="" /></a>
+	<a href="/portfolio/paul-shark/ps2.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps2.jpg" class="gallery-paul-shark" alt=""></a>
 
 
-	Pigment Overdyed Sweaters
+	<a href="/portfolio/paul-shark/ps3.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps3.jpg" class="gallery-paul-shark" alt=""></a>
+</div>
 
+	<p>Pigment Overdyed Sweaters</p>
+
+	<div class="gallery-one-line">
+		<a href="/portfolio/paul-shark/ps4.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps4.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+
+		<a href="/portfolio/paul-shark/ps5.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps5.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
+	</div>
+
+	<a href="/portfolio/paul-shark/ps6.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps6.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
 
 </div>
