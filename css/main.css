@@ -1,6 +1,6 @@
 body {
-	background-color: rgb(91, 77, 61);
-	color: #000;
+	background-color: #303030;
+	color: white;
 	text-align: left;
 }
 
@@ -9,13 +9,11 @@ a {
 	color: white;
 	font-family: bree-web, Bree, sans-serif;
 	font-kerning: auto;
-	font-size: 28px;
 	font-stretch: normal;
 	font-style: normal;
 	font-variant: normal;
 	font-variant-ligatures: normal;
 	font-weight: 300;
-
 }
 
 div {
@@ -85,4 +83,13 @@ div {
 .site-header {
 	text-align: center;
 	margin: 20px auto;
+}
+
+.post-content {
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.privacy-policy-list {
+	list-style-position: inside;
 }

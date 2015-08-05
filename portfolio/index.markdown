@@ -18,5 +18,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p><span style="font-size: large;">Click on the "Portfolio &#47; Clients" menu above to view examples of my work. <&#47;span></p>
-<p><span style="font-size: large;">*All illustrations by Colin Woodford exclusively for each client.<&#47;span></p>
+<p><span style="font-size: large;">*All illustrations by Colin Woodford exclusively for each client.</span></p>
