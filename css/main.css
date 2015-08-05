@@ -1,11 +1,32 @@
 body {
-	background-color: #222;
-	color: white;
+	background-color: rgb(91, 77, 61);
+	color: #000;
+	text-align: left;
 }
 
 a {
 	text-decoration: none;
 	color: white;
+	font-family: bree-web, Bree, sans-serif;
+	font-kerning: auto;
+	font-size: 28px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-ligatures: normal;
+	font-weight: 300;
+
+}
+
+div {
+	font-family: proxima-nova-alt, 'Proxima Nova Alt', sans-serif;
+	font-kerning: auto;
+	font-size: 24px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-ligatures: normal;
+	font-weight: normal;
 }
 
 .post-title {
@@ -36,7 +57,6 @@ a {
 	width: 60%;
 }
 
-
 .gallery-one-line {
 	text-align: center;
 }
@@ -58,6 +78,8 @@ a {
 
 .logo {
 	vertical-align: bottom;
+	width: 303px;
+	height: 71px;
 }
 
 .site-header {
