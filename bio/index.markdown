@@ -18,6 +18,7 @@ categories: []
 tags: []
 comments: []
 ---
+<br/>
 <p><a href="/images/colin.jpg"><img class="size-full wp-image-213 alignleft" title="mainbio" alt="" src="/images/colin.jpg" width="145" height="145" /></a><span /><strong>Colin Woodford</strong> was unaware of how far he would delve into a career in design when he discovered how fabrics were made at the age of 16 during a men&rsquo;s tailoring class. His fascination with fabrics led him down a path of Tailor &amp; Cutter honors classes, commercial art, and finally at the age twenty one in San Francisco where he furthered his apparel design education at the Pacific Fashion Institute.</p>
 <br />
 <p><span>Raised in Singapore by a Japanese mother and Eurasian father during a great time of cultural blending and modernization, &ldquo;Thinking globally is not a new phrase to me.&rdquo; says Colin, &ldquo;It&rsquo;s who I&rsquo;ve always been. Inspiration and a desire to create new things while melding many cultural influences naturally springs from such a rich and diverse background as mine.&rdquo;</span></p>
