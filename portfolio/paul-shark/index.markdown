@@ -21,7 +21,9 @@ comments: []
 
 
 <div class="gallery">
-Designed and developed an exclusive menswear collection for the USA market across all categories from 2006 to 2009. Special features included the Cashmere Storm System line of outerwear and superfine merino wool knits and sweaters.
+<br />
+<p align = "left">Designed and developed an exclusive menswear collection for the USA market across all categories from 2006 to 2009. Special features included the Cashmere Storm System line of outerwear and superfine merino wool knits and sweaters.</p>
+<br />
 
 <div>
 	<a href="/portfolio/paul-shark/ps1.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps1.jpg" class="gallery-paul-shark" alt=""></a>
@@ -31,7 +33,7 @@ Designed and developed an exclusive menswear collection for the USA market acros
 	<a href="/portfolio/paul-shark/ps3.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps3.jpg" class="gallery-paul-shark" alt=""></a>
 </div>
 <br />
-	Pigment Overdyed Sweaters
+	<p>Pigment Overdyed Sweaters</p>
 
 	<div class="gallery-one-line">
 		<a href="/portfolio/paul-shark/ps4.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps4.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
@@ -43,7 +45,7 @@ Designed and developed an exclusive menswear collection for the USA market acros
 
 	<br />
 
-	Fine Gauge Knit Sweater
+	<p>Fine Gauge Knit Sweater</p>
 
 	<div class="gallery-one-line">
 		<a href="/portfolio/paul-shark/ps7.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps7.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
@@ -61,7 +63,7 @@ Designed and developed an exclusive menswear collection for the USA market acros
 
 	<br />
 
-	Textured Stitch Sweaters
+	<p>Textured Stitch Sweaters</p>
 	<div class="gallery-one-line">
 		<a href="/portfolio/paul-shark/ps13.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps13.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
 
@@ -74,7 +76,7 @@ Designed and developed an exclusive menswear collection for the USA market acros
 
 	<br />
 
-	Textured Indigo Sweaters
+	<p>Textured Indigo Sweaters</p>
 	<div class="gallery-one-line">
 		<a href="/portfolio/paul-shark/ps17.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps17.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
 
@@ -86,7 +88,7 @@ Designed and developed an exclusive menswear collection for the USA market acros
 
 	<br />
 
-	Fabric Concept and Direction
+	<p>Fabric Concept and Direction</p>
 	<div class="gallery-one-line">
 		<a href="/portfolio/paul-shark/ps20.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps20.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
 
@@ -108,7 +110,7 @@ Designed and developed an exclusive menswear collection for the USA market acros
 
 	<br />
 
-	Outerwear Sketches
+	<p>Outerwear Sketches</p>
 	<div class="gallery-one-line">
 		<a href="/portfolio/paul-shark/ps28.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps28.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
 
@@ -146,9 +148,9 @@ Designed and developed an exclusive menswear collection for the USA market acros
 	</div>
 
 		<br />
-		Fabric Concept and Direction
+		<p>Fabric Concept and Direction
 		<br /><br />
-		Newport Stripes
+		Newport Stripes<p>
 		<br />
 	<div class="gallery-one-line">
 		<a href="/portfolio/paul-shark/ps41.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps41.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
@@ -170,7 +172,7 @@ Designed and developed an exclusive menswear collection for the USA market acros
 
 	<br />
 
-	Vintage White
+	<p>Vintage White</p>
 	<div class="gallery-one-line">
 		<a href="/portfolio/paul-shark/ps49.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps49.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
 
@@ -191,7 +193,7 @@ Designed and developed an exclusive menswear collection for the USA market acros
 
 	<br />
 
-	Cruise
+	<p>Cruise</p>
 	<div class="gallery-one-line">
 		<a href="/portfolio/paul-shark/ps57.jpg" data-lightbox="paulshark"><img src="/portfolio/paul-shark/ps57.jpg" class="gallery-paulshark_pigment_overdyed_sweaters" alt=""></a>
 

@@ -53,9 +53,9 @@ div {
 
 .gallery {
 	text-align: center;
-	border: 1px solid white;
+	border: 0px solid white;
 	margin: 0 auto;
-	background-color: #FFFFFF;
+	background-color: #CCC;
 	width: 60%;
 }
 
