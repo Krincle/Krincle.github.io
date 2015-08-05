@@ -19,16 +19,17 @@ tags: []
 comments: []
 ---
 <p>&nbsp;</p>
-<p style="text-align: center;"><span style="font-size: large;"><strong><span style="color: #000000;">Colin Woodford<&#47;span><&#47;strong><&#47;span><br />
-<span style="color: #000000; font-size: medium;"> CEO&#47;Creative Design Director<&#47;span><&#47;p></p>
-<p style="text-align: center;"><span style="color: #000000; font-size: medium;">Colin Woodford, LLC<&#47;span><br />
-<span style="color: #000000; font-size: medium;"> 261 Fawn Drive<&#47;span><br />
-<span style="color: #000000; font-size: medium;"> San Anselmo<&#47;span><br />
-<span style="color: #000000; font-size: medium;"> California 94960-1159<&#47;span><br />
-<span style="color: #000000; font-size: medium;"> USA<&#47;span><&#47;p></p>
-<p style="text-align: center;"><em><strong><span style="color: #000000; font-size: medium;">Office Phone: 1-415-458-8771<&#47;span><&#47;strong><&#47;em><&#47;p></p>
-<p style="text-align: center;"><span style="color: #000000; font-size: medium;">Office Fax: 1-415-458-8773<&#47;span><&#47;p></p>
-<p style="text-align: center;"><span style="color: #000000; font-size: medium;">Personal Cell: 1-415-259-9992<&#47;span><&#47;p></p>
-<p style="text-align: center;"><span style="color: #000000; font-size: medium;">Email: colin@cwoodford.com<&#47;span><&#47;p></p>
-<p style="text-align: center;"><&#47;p></p>
-<p style="text-align: center;"><a href="http:&#47;&#47;colinwoodforddesign.com&#47;privacy-policy&#47;">[Privacy Policy]<&#47;a><&#47;p></p>
+<p style="text-align: center;"><span style="font-size: large;"><strong><span style="color: #000000;">Colin Woodford></strong></span><br />
+<span style="color: #000000; font-size: medium;"> CEO/Creative Design Director</span></p></p>
+<p style="text-align: center;"><span style="color: #000000; font-size: medium;">Colin Woodford, LLC</span><br />
+<span style="color: #000000; font-size: medium;"> 261 Fawn Drive</span><br />
+<span style="color: #000000; font-size: medium;"> San Anselmo</span><br />
+<span style="color: #000000; font-size: medium;"> California 94960-1159</span><br />
+<span style="color: #000000; font-size: medium;"> USA</span></p></p>
+<p style="text-align: center;"><em><strong><span style="color: #000000; font-size: medium;">Office Phone: 1-415-458-8771</span></strong></em></p></p>
+<p style="text-align: center;"><span style="color: #000000; font-size: medium;">Office Fax: 1-415-458-8773</span></p></p>
+<p style="text-align: center;"><span style="color: #000000; font-size: medium;">Personal Cell: 1-415-259-9992</span></p></p>
+<p style="text-align: center;"><span style="color: #000000; font-size: medium;">Email: colin@cwoodford.com</span></p></p>
+<p style="text-align: center;"></p></p>
+<br>
+<p style="text-align: center;"><a href="/privacy-policy/">[Privacy Policy]</a></p></p>
