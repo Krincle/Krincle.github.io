@@ -23,7 +23,6 @@ comments: []
 	<br />
 	<p align = "left">Working with Steven Bennett, CEO of County Road Australia, from 1988 to 1991 Colin Woodford designed and developed the men's sportswear line for Country Road's U.S. retail stores by creating a brand image based on the company's Australian heritage.</p>
 	<br />
-
 	<div class="gallery-one-line">
 		<a href="country-road01.jpg" data-lightbox="countryroad">
 		    <img border = "1" src="country-road01.jpg" class="gallery-country-road" alt="">
