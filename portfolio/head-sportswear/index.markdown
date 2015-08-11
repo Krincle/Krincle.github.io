@@ -19,7 +19,8 @@ tags: []
 comments: []
 ---
 <p>From 1992 to 1994 Colin Woodford designed and developed active sportswear lines for a new target customer and created the Cross-Functional Ski Wear collection for Head Sportswear. He also created the Evander Holyfield Collection including a personal "fight wardrobe" for the champion boxer.</p>
-<p><a style="color: #ff4b33;" title="" href="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;head&#47;head-2-bordermaker.jpg"><img class="ngg-singlepic ngg-center" style="border-style: initial; border-color: initial;" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;head&#47;thumbs&#47;thumbs_head-2-bordermaker.jpg" alt="head-2-bordermaker" width="538" height="738" &#47;><&#47;a></p>
+<p><a style="color: #ff4b33;" title="" href="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;head&#47;head-2-bordermaker.jpg">
+<img class="ngg-singlepic ngg-center" style="border-style: initial; border-color: initial;" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;head&#47;thumbs&#47;thumbs_head-2-bordermaker.jpg" alt="head-2-bordermaker" width="538" height="738" &#47;><&#47;a></p>
 <p>&nbsp;</p>
 <p><a title="" href="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;head&#47;head-3-bordermaker.jpg"><img class="ngg-singlepic ngg-center" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;head&#47;thumbs&#47;thumbs_head-3-bordermaker.jpg" alt="head-3-bordermaker" width="538" height="738" &#47;><&#47;a></p>
 <p>&nbsp;</p>
