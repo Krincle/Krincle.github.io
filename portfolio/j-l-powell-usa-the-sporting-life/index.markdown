@@ -18,7 +18,51 @@ categories: []
 tags: []
 comments: []
 ---
-<p><strong><span class="Apple-style-span" style="color: #303030; line-height: 27px; font-size: medium; font-family: 'times new roman', times;">The Sporting Life<&#47;span><&#47;strong></p>
-<p>Worked with founder Josh Powell and his design and development team from 2007 to 2012 to develop new core items that adhered to the philosophy of his sporting lifestyle concept. The technical and tactical items are still best sellers and available today in the J.L. Powell catalog and online.</p>
-<p>[nggallery id=3]</p>
-<p><img class="ngg-singlepic ngg-center" alt="jlpowell_expedition_jacket-bordermaker" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;j-l-powell-usa-2&#47;jlpowell_expedition_jacket-bordermaker.jpg" width="589" height="589" &#47;></p>
+
+<div class="gallery">
+	<br />
+	<p align = "left"><strong>The Sporting Life</strong></p>
+    <p />
+	<p align = "left">Worked with founder Josh Powell and his design and development team from 2007 to 2012 to develop new core items that adhered to the philosophy of his sporting lifestyle concept. The technical and tactical items are still best sellers and available today in the J.L. Powell catalog and online.</p>
+	<br />
+	<div class="gallery-one-line">
+		<a href="j-l-powell01.jpg" data-lightbox="j-l-powell">
+		    <img border = "1" src="j-l-powell01.jpg" class="gallery-j-l-powell" alt="">
+	    </a>
+		<a href="j-l-powell02.jpg" data-lightbox="j-l-powell">
+		    <img border = "1" src="j-l-powell02.jpg" class="gallery-j-l-powell" alt="">
+		</a>
+	<br />
+		<a href="j-l-powell03.jpg" data-lightbox="j-l-powell">
+		    <img border = "1" src="j-l-powell03.jpg" class="gallery-j-l-powell" alt="">
+		</a>
+		<a href="j-l-powell04.jpg" data-lightbox="j-l-powell">
+		    <img border = "1" src="j-l-powell04.jpg" class="gallery-j-l-powell" alt="">
+	    </a>
+	<br />
+		<a href="j-l-powell05.jpg" data-lightbox="j-l-powell">
+		    <img border = "1" src="j-l-powell05.jpg" class="gallery-j-l-powell" alt="">
+		</a>
+		<a href="j-l-powell06.jpg" data-lightbox="j-l-powell">
+		    <img border = "1" src="j-l-powell06.jpg" class="gallery-j-l-powell" alt="">
+		</a>
+	<br />
+		<a href="j-l-powell07.jpg" data-lightbox="j-l-powell">
+		    <img border = "1" src="j-l-powell07.jpg" class="gallery-j-l-powell" alt="">
+	    </a>
+		<a href="j-l-powell08.jpg" data-lightbox="j-l-powell">
+    		<img border = "1" src="j-l-powell08.jpg" class="gallery-j-l-powell" alt="">
+    	</a>
+    <br />
+        <a href="j-l-powell09.jpg" data-lightbox="j-l-powell">
+            <img border = "1" src="j-l-powell09.jpg" class="gallery-j-l-powell" alt="">
+        </a>
+        <a href="j-l-powell10.jpg" data-lightbox="j-l-powell">
+            <img border = "1" src="j-l-powell10.jpg" class="gallery-j-l-powell" alt="">
+        </a>
+    <br />
+        <a href="j-l-powell11.jpg" data-lightbox="j-l-powell">
+            <img border = "1" src="j-l-powell11.jpg" class="gallery-j-l-powell1" alt="">
+        </a>
+	</div>
+</div>
