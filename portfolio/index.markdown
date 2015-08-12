@@ -18,12 +18,14 @@ categories: []
 tags: []
 comments: []
 ---
+
+
 <br />
 <div>
   <ul class="portfolio-list">
     <li class="top"><a href="/portfolio/banana-reoublictravel-safari-clothing-co/">Banana Republic</a></li>
     <li><a href="/portfolio/country-road-austrailia/">Country Road Australia</a></li>
-    <li><a href="/portfolio/sample/">Ermenegildo Zegna</a></li>
+    <li><a href="/portfolio/ermenegildo-zegna/">Ermenegildo Zegna</a></li>
     <li><a href="/portfolio/head-sportswear/">Head Sportswear</a></li>
     <li><a href="/portfolio/henry-grethel/">Henry Grethel</a></li>
     <li><a href="/portfolio/henry-jacobson/">Henry Jacobson</a></li>

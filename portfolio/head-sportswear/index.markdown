@@ -28,7 +28,6 @@ comments: []
 		<a href="head-sportswear01.jpg" data-lightbox="head-sportswear">
 		    <img border = "1" src="head-sportswear01.jpg" class="gallery-head-sportswear" alt="">
 	    </a>
-	<br />
 		<a href="head-sportswear02.jpg" data-lightbox="head-sportswear">
 		    <img border = "1" src="head-sportswear02.jpg" class="gallery-head-sportswear" alt="">
 		</a>
@@ -36,7 +35,6 @@ comments: []
 		<a href="head-sportswear03.jpg" data-lightbox="head-sportswear">
 		    <img border = "1" src="head-sportswear03.jpg" class="gallery-head-sportswear" alt="">
 		</a>
-	<br />
 		<a href="head-sportswear04.jpg" data-lightbox="head-sportswear">
 		    <img border = "1" src="head-sportswear04.jpg" class="gallery-head-sportswear" alt="">
 	    </a>
@@ -44,7 +42,6 @@ comments: []
 		<a href="head-sportswear05.jpg" data-lightbox="head-sportswear">
 		    <img border = "1" src="head-sportswear05.jpg" class="gallery-head-sportswear" alt="">
 		</a>
-	<br />
 		<a href="head-sportswear06.jpg" data-lightbox="head-sportswear">
 		    <img border = "1" src="head-sportswear06.jpg" class="gallery-head-sportswear" alt="">
 		</a>

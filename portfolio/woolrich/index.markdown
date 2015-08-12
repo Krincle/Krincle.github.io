@@ -18,9 +18,22 @@ categories: []
 tags: []
 comments: []
 ---
-<p>Colin Woodford designed and developed a new technical and non-technical Men's Outerwear line based on the Woolrich company's U.S. outdoor heritage from 1992 to 1993.</p>
-<p><span class="Apple-style-span" style="color: #000000; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 12px; line-height: 18px;"><img class="ngg-singlepic ngg-center" alt="outdoor-1a-bordermaker" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;woolrich&#47;thumbs&#47;thumbs_outdoor-1a-bordermaker.jpg" width="538" height="668" &#47;><&#47;span></p>
-<p>&nbsp;</p>
-<p><a title="" href="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;woolrich&#47;woolrich-2-bordermaker.jpg"><img class="ngg-singlepic ngg-center" alt="woolrich-2-bordermaker" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;woolrich&#47;thumbs&#47;thumbs_woolrich-2-bordermaker.jpg" width="538" height="668" &#47;><&#47;a></p>
-<p>&nbsp;</p>
-<p><a title="" href="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;woolrich&#47;woolrich-3-bordermaker.jpg"><img class="ngg-singlepic ngg-center" alt="woolrich-3-bordermaker" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;woolrich&#47;thumbs&#47;thumbs_woolrich-3-bordermaker.jpg" width="538" height="668" &#47;><&#47;a></p>
+<div class="gallery1">
+   <br />
+   <p align = "left">
+   Colin Woodford designed and developed a new technical and non-technical Men’s Outerwear line based on the Woolrich company’s U.S. outdoor heritage from 1992 to 1993.
+    </p>
+   <br />
+   <div class="gallery-one-line">
+      <a href="woolrich01.jpg" data-lightbox="woolrich">
+          <img border = "1" src="woolrich01.jpg" class="gallery-woolrich" alt="">
+       </a>
+   <br />
+      <a href="woolrich02.jpg" data-lightbox="woolrich">
+          <img border = "1" src="woolrich02.jpg" class="gallery-woolrich" alt="">
+      </a>
+      <a href="woolrich03.jpg" data-lightbox="woolrich">
+          <img border = "1" src="woolrich03.jpg" class="gallery-woolrich" alt="">
+      </a>
+    </div>
+</div>

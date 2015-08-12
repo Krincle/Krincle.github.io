@@ -30,7 +30,7 @@ comments: []
 		</a>
 	<br />
 		<a href="smith-haken02.jpg" data-lightbox="smith-haken">
-		    <img border = "1" src="smith-haken02.jpg" class="gallery-smith-haken1" alt="">
+		    <img border = "1" src="smith-haken02.jpg" class="gallery-smith-haken" alt="">
 		</a>
     </div>
 </div>

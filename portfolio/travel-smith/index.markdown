@@ -18,4 +18,9 @@ categories: []
 tags: []
 comments: []
 ---
-<p>Consulted with TravelSmith to improve and redefine the fit across all clothing categories from 1995 to 1998.</p>
+
+<div>
+	<br />
+	<p align = "center">Consulted with TravelSmith to improve and redefine the fit across all clothing categories from 1995 to 1998.</p>
+	<br />
+</div>

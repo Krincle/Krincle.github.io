@@ -19,7 +19,7 @@ tags: []
 comments: []
 ---
 
-<div class="gallery">
+<div class="gallery1">
 	<br />
 	<p align = "left">Designed the first outerwear collection for Royal Robbins in 1992 to 1993 and also designed the signature shirts and pants for hiking.</p>
 	<br />
@@ -29,7 +29,7 @@ comments: []
 	    </a>
 	<br />
 		<a href="royal-robbins02.jpg" data-lightbox="royal-robbins">
-		    <img border = "1" src="royal-robbins02.jpg" class="gallery-royal-robbins1" alt="">
+		    <img border = "1" src="royal-robbins02.jpg" class="gallery-royal-robbins" alt="">
 		</a>
 
     </div>

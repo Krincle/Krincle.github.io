@@ -51,7 +51,7 @@ p  {
 	border: 0px solid white;
 	margin: 0 auto;
 	background-color: #7c7c7c;
-	width: 85%;
+	width: 70%;
 }
 
 .gallery1 {
@@ -62,32 +62,58 @@ p  {
 	width: 70%;
 }
 
+.gallery2 {
+	text-align: center;
+	border: 0px solid white;
+	margin: 0 auto;
+	background-color: #7c7c7c;
+	width: 50%;
+}
+
 .gallery-one-line {
 	text-align: center;
 }
 
 .gallery-country-road{
 }
-.gallery-henry-grethel{
-	width: 538px;
+.gallery-zegna0{
+	width: 1210px;
+}
+.gallery-zegna1{
+	width: 510px;
 	height: 738px;
+}
+.gallery-head-sportswear{
+	width: 538px;
+}
+.gallery-henry-grethel{
+
+	height: 555px;
 }
 .gallery-henry-jacobson{
 }
 .gallery-J-C-Penny{
-	width: 538px;
-	height: 738px;
+	width: 269px;
+	height: 369px;
+}
+.gallery-J-C-Penny1{
+	height: 414px;
 }
 .gallery-J-C-Penny2{
-	width: 538px;
+	width: 269px;
 }
 .gallery-j-l-powell{
-	width: 538px;
-	height: 738px;
+	height: 555px;
 }
 .gallery-john-deere{
-	width: 538px;
+	height: 555px;
+}
+.gallery-levi{
+
 	height: 738px;
+}
+.gallery-levi1{
+	height: 555px;
 }
 .gallery-l-l-bean{
 
@@ -100,7 +126,15 @@ p  {
 	width: 337px;
 	height: 418px;
 }
-
+.gallery-royal-robbins{
+	width: 780px;
+}
+.gallery-smith-haken{
+	height: 555px;
+}
+.gallery-woolrich{
+	height: 555px;
+}
 
 .frontpage-posts {
 	text-align: center;
