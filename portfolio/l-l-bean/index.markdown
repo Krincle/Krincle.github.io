@@ -20,7 +20,7 @@ comments: []
 ---
 
 
-<div class="gallery">
+<div class="gallery1">
 	<br />
 	<p align = "left">Colin Woodford worked with L.L. Bean from 1991 to 1995 to design new core products and to update existing Men's Sportswear and Outerwear apparel including consulting in the areas of fit, trend direction, and supplier sourcing. It was during that time that Warner Brother's wardrobing used some ofColin's designs for L.L. Bean to outfit Jack Lemmon and Walter Matthau for "Grumpy Old Men".</p>
     <br />

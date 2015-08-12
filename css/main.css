@@ -49,6 +49,14 @@ body {
 	width: 85%;
 }
 
+.gallery1 {
+	text-align: center;
+	border: 0px solid white;
+	margin: 0 auto;
+	background-color: #7c7c7c;
+	width: 70%;
+}
+
 .gallery-one-line {
 	text-align: center;
 }
@@ -60,8 +68,6 @@ body {
 	height: 738px;
 }
 .gallery-henry-jacobson{
-	width: 538px;
-	height: 738px;
 }
 .gallery-J-C-Penny{
 	width: 538px;
@@ -79,8 +85,7 @@ body {
 	height: 738px;
 }
 .gallery-l-l-bean{
-	width: 538px;
-	height: 738px;
+
 }
 .gallery-paul-shark {
 	width: 538px;

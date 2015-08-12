@@ -20,7 +20,7 @@ comments: []
 ---
 
 
-<div class="gallery">
+<div class="gallery1">
 	<br />
     <p align = "left"><strong>"Henry Jacobson...cool California lifestyle clothes." DNR July 25th, 2005</strong></p>
     <p>&nbsp;</p>
