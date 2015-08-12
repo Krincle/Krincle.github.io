@@ -20,7 +20,7 @@ comments: []
 ---
 
 <div class="gallery">
-	<br />
+
     <p style="text-align: center;"><strong>Workwear</strong></p>
     <p />
     <p style="text-align: left;">Designed the first authentic workwear collection concept for&nbsp;John&nbsp;Deere&nbsp;from 2009 to 2011 which included signature jackets, pants, shirts, and overalls.</p>

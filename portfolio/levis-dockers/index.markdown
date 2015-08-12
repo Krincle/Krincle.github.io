@@ -18,9 +18,21 @@ categories: []
 tags: []
 comments: []
 ---
-<p>Reporting to Bob Siegel, President of the Levi Strauss &amp; Co.'s Menswear Division, Colin Woodford designed and developed the initial Dockers's Authentic Men's Shirt line in 1991.</p>
-<p><a title="" href="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;levis&#47;levi-1.jpg"><img class="ngg-singlepic ngg-center" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;levis&#47;thumbs&#47;thumbs_levi-1.jpg" alt="levi-1" width="312" height="553" &#47;><&#47;a></p>
-<p>&nbsp;</p>
-<p><a title="" href="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;levis&#47;levi-2.jpg"><img class="ngg-singlepic ngg-center" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;levis&#47;thumbs&#47;thumbs_levi-2.jpg" alt="levi-2" width="537" height="470" &#47;><&#47;a></p>
-<p>&nbsp;</p>
-<p><a title="" href="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;levis&#47;levi-3.jpg"><img class="ngg-singlepic ngg-center" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;levis&#47;thumbs&#47;thumbs_levi-3.jpg" alt="levi-3" width="537" height="453" &#47;><&#47;a></p>
+
+<div class="gallery">
+	<br />
+	<p align = "left">Reporting to Bob Siegel, President of the Levi Strauss &amp; Co.'s Menswear Division, Colin Woodford designed and developed the initial Dockers's Authentic Men's Shirt line in 1991.</p>
+	<br />
+	<div class="gallery-one-line">
+		<a href="levi01.jpg" data-lightbox="levi">
+		    <img border = "1" src="levi01.jpg" class="gallery-levi" alt="">
+	    </a>
+	<br />	    
+		<a href="levi02.jpg" data-lightbox="levi">
+		    <img border = "1" src="levi02.jpg" class="gallery-levi1" alt="">
+		</a>
+		<a href="levi03.jpg" data-lightbox="levi">
+		    <img border = "1" src="levi03.jpg" class="gallery-levi1" alt="">
+		</a>
+    </div>
+</div>
