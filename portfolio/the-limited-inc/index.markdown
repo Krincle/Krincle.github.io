@@ -18,4 +18,9 @@ categories: []
 tags: []
 comments: []
 ---
-<p>In 1996 Colin Woodford designed and developed new marketing and product concepts for the Limited's Structure stores in Woven Shirts, Pants, Knits, and Outerwear categories.</p>
+
+<div>
+	<br />
+	<p align = "left">In 1996 Colin Woodford designed and developed new marketing and product concepts for the Limited's Structure stores in Woven Shirts, Pants, Knits, and Outerwear categories.</p>
+	<br />
+</div>

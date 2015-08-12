@@ -18,4 +18,9 @@ categories: []
 tags: []
 comments: []
 ---
-<p>Worked with K.C. Walsh, founder of Simms Fishing, to design and develop technical and functional fly fishing sportswear with exclusive color palettes and shirting patterns from 2002 to 2011.</p>
+
+<div>
+	<br />
+	<p align = "left">Worked with K.C. Walsh, founder of Simms Fishing, to design and develop technical and functional fly fishing sportswear with exclusive color palettes and shirting patterns from 2002 to 2011.</p>
+	<br />
+</div>

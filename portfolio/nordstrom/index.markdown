@@ -18,4 +18,8 @@ categories: []
 tags: []
 comments: []
 ---
-<p>In 1989 Colin Woodford designed and developed the Evergreen Men's Outerwear line, Nordstrom's first successful private label collection.</p>
+<div>
+	<br />
+	<p align = "left">In 1989 Colin Woodford designed and developed the Evergreen Men's Outerwear line, Nordstrom's first successful private label collection.</p>
+	<br />
+</div>

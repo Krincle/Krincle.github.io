@@ -18,7 +18,19 @@ categories: []
 tags: []
 comments: []
 ---
-<p>Designed the first outerwear collection for Royal Robbins in 1992 to 1993 and also designed the signature shirts and pants for hiking.</p>
-<p><img class="ngg-singlepic ngg-center" style="border-style: initial; border-color: initial;" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;royal-robbins&#47;royal-robbins-2-bordermaker.jpg" alt="royal-robbins-2-bordermaker" width="538" height="592" &#47;></p>
-<p>&nbsp;</p>
-<p><img class="ngg-singlepic ngg-center" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;royal-robbins&#47;royal-robbins-bordermaker.jpg" alt="royal-robbins-bordermaker" width="538" height="592" &#47;></p>
+
+<div class="gallery">
+	<br />
+	<p align = "left">Designed the first outerwear collection for Royal Robbins in 1992 to 1993 and also designed the signature shirts and pants for hiking.</p>
+	<br />
+	<div class="gallery-one-line">
+		<a href="royal-robbins01.jpg" data-lightbox="royal-robbins">
+		    <img border = "1" src="royal-robbins01.jpg" class="gallery-royal-robbins" alt="">
+	    </a>
+	<br />
+		<a href="royal-robbins02.jpg" data-lightbox="royal-robbins">
+		    <img border = "1" src="royal-robbins02.jpg" class="gallery-royal-robbins1" alt="">
+		</a>
+
+    </div>
+</div>

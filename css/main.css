@@ -6,7 +6,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: #DDDDDD;
+	color: lightsteelblue;
 	font-family: bree-web, Bree, sans-serif;
 	font-kerning: auto;
 	font-stretch: normal;
@@ -29,6 +29,11 @@ body {
 	font-variant-ligatures: normal;
 	font-weight: normal;
 	font-size: 16pt;
+}
+
+p  {
+    margin-left: 1cm;
+	margin-right: 1cm;
 }
 
 .post-title {

@@ -18,7 +18,19 @@ categories: []
 tags: []
 comments: []
 ---
-<p>Worked with founder Paul Hawken to design and develop a unique line of gardening clothing and accessories in 1993 to 1994.</p>
-<p><img class="ngg-singlepic ngg-center" style="border-style: initial; border-color: initial;" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;smith-and-haken&#47;smith-hawken-1-bordermaker.jpg" alt="smith-hawken-1-bordermaker" width="538" height="390" &#47;></p>
-<p>&nbsp;</p>
-<p><img class="ngg-singlepic ngg-center" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;gallery&#47;smith-and-haken&#47;smith-hawken-2-bordermaker.jpg" alt="smith-hawken-2-bordermaker" width="538" height="390" &#47;></p>
+
+<div class="gallery1">
+	<br />
+  	    <p align = "left">Worked with founder Paul Hawken to design and develop a unique line of gardening clothing and accessories in 1993 to 1994.</p>
+	<br />
+
+	<div class="gallery-one-line">
+		<a href="smith-haken01.jpg" data-lightbox="smith-haken">
+		    <img border = "1" src="smith-haken01.jpg" class="gallery-smith-haken" alt="">
+		</a>
+	<br />
+		<a href="smith-haken02.jpg" data-lightbox="smith-haken">
+		    <img border = "1" src="smith-haken02.jpg" class="gallery-smith-haken1" alt="">
+		</a>
+    </div>
+</div>
