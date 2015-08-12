@@ -73,7 +73,9 @@ p  {
 .gallery-one-line {
 	text-align: center;
 }
-
+.gallery-banana-republic{
+	height: 555px;
+}
 .gallery-country-road{
 }
 .gallery-zegna0{
@@ -91,16 +93,16 @@ p  {
 	height: 555px;
 }
 .gallery-henry-jacobson{
+	height: 555px;
 }
 .gallery-J-C-Penny{
-	width: 269px;
-	height: 369px;
+	height: 555px;
 }
 .gallery-J-C-Penny1{
-	height: 414px;
+	height: 530px;
 }
 .gallery-J-C-Penny2{
-	width: 269px;
+	width: 398px;
 }
 .gallery-j-l-powell{
 	height: 555px;
@@ -130,6 +132,15 @@ p  {
 	width: 780px;
 }
 .gallery-smith-haken{
+	height: 555px;
+}
+.gallery-north-face{
+	height: 555px;
+}
+.gallery-orvis{
+	height: 555px;
+}
+.gallery-walls{
 	height: 555px;
 }
 .gallery-woolrich{

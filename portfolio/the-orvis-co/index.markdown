@@ -46,7 +46,7 @@ comments: []
 	    </a>
 	<br />
 		<a href="orvis07.jpg" data-lightbox="orvis">
-		    <img border = "1" src="orvis07.jpg" class="gallery-orvis1" alt="">
+		    <img border = "1" src="orvis07.jpg" class="gallery-orvis" alt="">
 	    </a>
 		<a href="orvis08.jpg" data-lightbox="orvis">
 		    <img border = "1" src="orvis08.jpg" class="gallery-orvis" alt="">
@@ -63,7 +63,7 @@ comments: []
 		    <img border = "1" src="orvis11.jpg" class="gallery-orvis" alt="">
 	    </a>
 		<a href="orvis12.jpg" data-lightbox="orvis">
-		    <img border = "1" src="orvis12.jpg" class="gallery-orvis2" alt="">
+		    <img border = "1" src="orvis12.jpg" class="gallery-orvis" alt="">
 	    </a>
 	<br />
 		<a href="orvis13.jpg" data-lightbox="orvis">
