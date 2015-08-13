@@ -19,6 +19,25 @@ categories:
 tags: []
 comments: []
 ---
-<p style="text-align: center;"><span style="font-size: medium;">Hand drawn prints layouts for Japanese cotton fabric...<&#47;span><&#47;p></p>
-<p style="text-align: center;">Exclusively available at <a href="http:&#47;&#47;colinwoodford.com">www.colinwoodford.com<&#47;a><&#47;p><br />
+
+
+<div class="gallery1">
+	<br />
+  	    <p align = "left">Hand drawn prints layouts for Japanese cotton fabric...</p>
+  	    <p align = "left">Exclusively available at</p>
+	<br />
+
+	<div class="gallery-one-line">
+		<a href="smith-haken01.jpg" data-lightbox="smith-haken">
+		    <img border = "1" src="smith-haken01.jpg" class="gallery-smith-haken" alt="">
+		</a>
+	<br />
+		<a href="smith-haken02.jpg" data-lightbox="smith-haken">
+		    <img border = "1" src="smith-haken02.jpg" class="gallery-smith-haken" alt="">
+		</a>
+    </div>
+</div>
+
+<&#47;span><&#47;p></p>
+<p style="text-align: center;"> <a href="http:&#47;&#47;colinwoodford.com">www.colinwoodford.com<&#47;a><&#47;p><br />
 <img class="aligncenter size-full wp-image-1617" alt="newhandsketches" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;uploads&#47;2013&#47;07&#47;newhandsketches.png" width="609" height="307" &#47;></p>

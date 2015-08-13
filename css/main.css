@@ -32,7 +32,8 @@ body {
 }
 
 p  {
-
+    margin-left: 1cm;
+	margin-right: 1cm;
 }
 
 .post-title {
@@ -176,6 +177,8 @@ p  {
 
 .privacy-policy-list {
 	list-style-position: inside;
+	margin-left: 1cm;
+	margin-right: 1cm;
 }
 
 .post-link {
