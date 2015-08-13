@@ -19,7 +19,7 @@ tags: []
 comments: []
 ---
 
-<div class="gallery1">
+<div class="gallery">
 	<br />
   	    <p align = "left">Worked with founder Paul Hawken to design and develop a unique line of gardening clothing and accessories in 1993 to 1994.</p>
 	<br />
