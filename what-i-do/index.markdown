@@ -24,3 +24,4 @@ comments: []
 <p><strong>Steer you around the pitfalls:</strong> I leverage my technical expertise in fit, construction, and fabric development to efficiently work through manufacturing obstacles during all phases of design and production.</p>
 <br />
 <p><strong>Get things done using the best global resources:</strong> Iʼm a people person, team leader, and have the ability to unite and manage creative forces. I bring valuable resources from years of building and maintaining relationships with factories, mills, and suppliers worldwide.</p>
+
