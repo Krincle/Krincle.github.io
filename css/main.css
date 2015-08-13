@@ -51,7 +51,7 @@ p  {
 	border: 0px solid white;
 	margin: 0 auto;
 	background-color: #7c7c7c;
-	width: 70%;
+	width: 85%;
 }
 
 .gallery1 {
@@ -59,7 +59,7 @@ p  {
 	border: 0px solid white;
 	margin: 0 auto;
 	background-color: #7c7c7c;
-	width: 70%;
+	width: 85%;
 }
 
 .gallery2 {
@@ -67,7 +67,7 @@ p  {
 	border: 0px solid white;
 	margin: 0 auto;
 	background-color: #7c7c7c;
-	width: 50%;
+	width: 85%;
 }
 
 .gallery-one-line {
@@ -180,6 +180,8 @@ p  {
 
 .privacy-policy-list {
 	list-style-position: inside;
+	margin-left: 1cm;
+	margin-right: 1cm;
 }
 
 .post-link {
