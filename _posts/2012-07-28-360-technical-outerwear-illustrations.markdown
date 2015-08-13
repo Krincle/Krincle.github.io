@@ -19,6 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p style="text-align: center;"><span style="font-size: medium;">J.L.Powell Expedition Parka</span></p></p>
-<p style="text-align: center;">[singlepic id=453 w=650 h=600 float=center]</p><br />
-<a href="http://colinwoodforddesign.com/category/illustrations-and-sketches/"><img class="aligncenter size-full wp-image-1627" alt="Paul n Shark Tech Drawing1" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/Paul-n-Shark-Tech-Drawing1.jpg" width="637" height="903" /></a><a href="http://colinwoodforddesign.com/category/illustrations-and-sketches/"><img class="aligncenter size-full wp-image-1628" alt="Paul n Shark Tech Drawing3" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/Paul-n-Shark-Tech-Drawing3.jpg" width="636" height="908" /></a></p>
+<p style="text-align: center;">J.L.Powell Expedition Parka
+<br />
+<a href="http://colinwoodforddesign.com/category/illustrations-and-sketches/"><img class="aligncenter size-full wp-image-1627" alt="Paul n Shark Tech Drawing1" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/Paul-n-Shark-Tech-Drawing1.jpg" width="637" height="903" /></a><a href="http://colinwoodforddesign.com/category/illustrations-and-sketches/"><img class="aligncenter size-full wp-image-1628" alt="Paul n Shark Tech Drawing3" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/Paul-n-Shark-Tech-Drawing3.jpg" width="636" height="908" /></a>
+</p>
