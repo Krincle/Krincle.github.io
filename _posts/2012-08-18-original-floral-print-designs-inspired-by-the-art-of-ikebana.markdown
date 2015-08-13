@@ -21,15 +21,15 @@ comments: []
 ---
 
 
-<div class="gallery1">
+<div>
 	<br />
-  	    <p align = "left">Hand drawn prints layouts for Japanese cotton fabric...</p>
-  	    <p align = "left">Exclusively available at</p>
+  	    <p>Hand drawn prints layouts for Japanese cotton fabric...</p>
+  	    <p>Exclusively available at</p>
 	<br />
 
-	<div class="gallery-one-line">
+	<div>
 		<a href="www.colinwoodford.com">
-		    <img border = "0" src="smith-haken01.jpg" class="banner6.jpg" alt="">
+		    <img border = "0" src="banner6.jpg" class="banner6.jpg" alt="">
 		</a>
     </div>
 </div>
