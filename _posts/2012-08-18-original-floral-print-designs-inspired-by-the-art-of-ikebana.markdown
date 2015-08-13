@@ -34,3 +34,9 @@ comments: []
     </div>
 </div>
 
+<<<<<<< HEAD
+=======
+</span></p></p>
+<p style="text-align: center;"> <a href="http://colinwoodford.com">www.colinwoodford.com</a></p><br />
+<img class="aligncenter size-full wp-image-1617" alt="newhandsketches" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/newhandsketches.png" width="609" height="307" /></p>
+>>>>>>> dd8ca1448717e37ac2e14e1c03ef1110d0e691e9

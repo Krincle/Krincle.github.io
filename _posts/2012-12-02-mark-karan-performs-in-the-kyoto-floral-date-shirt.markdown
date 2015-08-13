@@ -21,5 +21,5 @@ comments: []
 ---
 <p>Legendary guitarist Mark Karan performed last week at the Sweetwater music Hall in Mill Valley, CA.<br />
 The renowned lead guitarist known for performing with Huey Lewis, The Grateful Dead, Mickey Hart, Bob Weir, Ratdog, and many more, donned the Kyoto Floral Date shirt in dark navy.</p>
-<p><a href="http:&#47;&#47;colinwoodford.com"><img class="aligncenter size-full wp-image-1572" alt="MarkKaranKyoto" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;uploads&#47;2013&#47;07&#47;MarkKaranKyoto.jpg" width="574" height="351" &#47;><&#47;a></p>
-<p><a href="http:&#47;&#47;colinwoodford.com"><img class="aligncenter size-full wp-image-1573" alt="MarkKaranKyotoGuitar" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;uploads&#47;2013&#47;07&#47;MarkKaranKyotoGuitar.jpg" width="574" height="378" &#47;><&#47;a></p>
+<p><a href="http://colinwoodford.com"><img class="aligncenter size-full wp-image-1572" alt="MarkKaranKyoto" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/MarkKaranKyoto.jpg" width="574" height="351" /></a></p>
+<p><a href="http://colinwoodford.com"><img class="aligncenter size-full wp-image-1573" alt="MarkKaranKyotoGuitar" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/MarkKaranKyotoGuitar.jpg" width="574" height="378" /></a></p>

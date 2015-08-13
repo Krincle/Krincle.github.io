@@ -19,6 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<p style="text-align: center;">My unique background in art, design, textile, and mens tailoring gives me the ability to create hand drawn designs in perspective and proportion bringing the product to life with a personal non-digital touch. I give my clients &nbsp;the ability to &ldquo;see&rdquo; an accurate rendition of their product before it is produced.<&#47;p><br />
-<a href="http:&#47;&#47;colinwoodforddesign.com&#47;portfolio&#47;wallsindustrial-workwear&#47;"><img class="aligncenter size-full wp-image-1624" alt="bringingproductstolife1" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;uploads&#47;2012&#47;07&#47;bringingproductstolife1.png" width="595" height="764" &#47;><&#47;a></p>
-<p><img class="aligncenter size-full wp-image-1624" alt="bringingproductstolife1" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;uploads&#47;2012&#47;07&#47;bringingproductstolife2.png" width="595" height="764" &#47;></p>
+<p style="text-align: center;">My unique background in art, design, textile, and mens tailoring gives me the ability to create hand drawn designs in perspective and proportion bringing the product to life with a personal non-digital touch. I give my clients &nbsp;the ability to &ldquo;see&rdquo; an accurate rendition of their product before it is produced.</p><br />
+<a href="http://colinwoodforddesign.com/portfolio/wallsindustrial-workwear/"><img class="aligncenter size-full wp-image-1624" alt="bringingproductstolife1" src="http://colinwoodforddesign.com/wp-content/uploads/2012/07/bringingproductstolife1.png" width="595" height="764" /></a></p>
+<p><img class="aligncenter size-full wp-image-1624" alt="bringingproductstolife1" src="http://colinwoodforddesign.com/wp-content/uploads/2012/07/bringingproductstolife2.png" width="595" height="764" /></p>

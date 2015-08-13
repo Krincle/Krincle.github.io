@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p style="text-align: center;"><span style="font-size: medium;">My inspiration for the Ikebana floral prints...gathering photos, colors, artwork,<&#47;span><&#47;p><br />
-<img class="aligncenter size-full wp-image-1620" alt="colinsdesk3" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;uploads&#47;2013&#47;07&#47;colinsdesk3.jpg" width="800" height="590" &#47;></p>
-<p style="text-align: center;">Editing the final color selections and ideas.<&#47;p><br />
-<img class="aligncenter size-full wp-image-1621" alt="colinsdesk4" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;uploads&#47;2012&#47;08&#47;colinsdesk4.jpg" width="800" height="550" &#47;></p>
+<p style="text-align: center;"><span style="font-size: medium;">My inspiration for the Ikebana floral prints...gathering photos, colors, artwork,</span></p><br />
+<img class="aligncenter size-full wp-image-1620" alt="colinsdesk3" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/colinsdesk3.jpg" width="800" height="590" /></p>
+<p style="text-align: center;">Editing the final color selections and ideas.</p><br />
+<img class="aligncenter size-full wp-image-1621" alt="colinsdesk4" src="http://colinwoodforddesign.com/wp-content/uploads/2012/08/colinsdesk4.jpg" width="800" height="550" /></p>
