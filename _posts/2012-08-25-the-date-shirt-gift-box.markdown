@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p style="text-align: center;"><span style="font-size: medium;">This luxurious packaging comes in a handsome box with Japanese</span><br />
-<span style="font-size: medium;"> wave rice paper and is finished with a silver beige ribbon.</span></p><br />
+<p style="text-align: center;">This luxurious packaging comes in a handsome box with Japanese><br />
+wave rice paper and is finished with a silver beige ribbon.</p><br />
 <img class="aligncenter size-full wp-image-1597" alt="thedateshirt-3" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/thedateshirt-3.jpg" width="448" height="320" /></p>
 <p><img class="aligncenter size-full wp-image-1598" alt="giftbox2" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/giftbox2.jpg" width="448" height="320" /></p>

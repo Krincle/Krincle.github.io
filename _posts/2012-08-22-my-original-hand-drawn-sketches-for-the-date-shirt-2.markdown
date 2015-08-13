@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p style="text-align: center;"><span style="font-size: medium;">Sketching out the Date Shirt ideas for the Ikebana floral prints.....</span></p></p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1601" alt="chrysanthemum shirt" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/chrysanthemum-shirt.jpeg" width="447" height="600" />Chrysanthemum Floral Date Shirt</p></p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1602" alt="grass flower shirt" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/grass-flower-shirt.jpeg" width="447" height="600" />Grass Floral Date Shirt</p></p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1603" alt="kyotoflowershirt" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/kyotoflowershirt.jpg" width="447" height="600" />Kyoto Floral Date Shirt</p></p>
+<p style="text-align: center;"><span style="font-size: medium;">Sketching out the Date Shirt ideas for the Ikebana floral prints.....</span></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1601" alt="chrysanthemum shirt" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/chrysanthemum-shirt.jpeg" width="447" height="600"></p><p align = "center">Chrysanthemum Floral Date Shirt</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1602" alt="grass flower shirt" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/grass-flower-shirt.jpeg" width="447" height="600"></p><p align = "center">Grass Floral Date Shirt</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1603" alt="kyotoflowershirt" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/kyotoflowershirt.jpg" width="447" height="600"></p><p align = "center">Kyoto Floral Date Shirt</p>
