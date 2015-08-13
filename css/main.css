@@ -6,7 +6,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: lightsteelblue;
+	color: whitesmoke;
 	font-family: bree-web, Bree, sans-serif;
 	font-kerning: auto;
 	font-stretch: normal;
@@ -17,6 +17,7 @@ a {
 }
 
 a:hover {
+	color = #ccc;
 	text-decoration: underline;
 }
 
@@ -50,8 +51,8 @@ p  {
 .gallery {
 	text-align: center;
 	border: 0px solid white;
-	margin: 0 auto;
-	background-color: #7c7c7c;
+	margin: 0 auto 0 auto;
+	background-color: white;
 	width: 85%;
 }
 
@@ -66,9 +67,9 @@ p  {
 .gallery2 {
 	text-align: center;
 	border: 0px solid white;
-	margin: 0 auto;
+	margin: 0 auto 0 auto;
 	background-color: white;
-	width: 85%;
+	width: 45%;
 }
 
 .gallery-one-line {
@@ -281,4 +282,8 @@ h1 {
 
 .contact {
 	text-align: center;
+	border: 0px solid white;
+	margin: 0 auto 0 auto;
+	background-color: white;
+	width: 45%;
 }
