@@ -65,11 +65,11 @@ p  {
 }
 
 .gallery2 {
-	text-align: center;
+	text-align: left;
 	border: 0px solid white;
 	margin: 0 auto 0 auto;
 	background-color: white;
-	width: 45%;
+	width: 55%;
 }
 
 .gallery-one-line {
