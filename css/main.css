@@ -32,6 +32,7 @@ body {
 }
 
 p  {
+	color: #000;
     margin-left: 1cm;
 	margin-right: 1cm;
 }
@@ -58,7 +59,7 @@ p  {
 	text-align: center;
 	border: 0px solid white;
 	margin: 0 auto;
-	background-color: #7c7c7c;
+	background-color: white;
 	width: 85%;
 }
 
@@ -66,7 +67,7 @@ p  {
 	text-align: center;
 	border: 0px solid white;
 	margin: 0 auto;
-	background-color: #7c7c7c;
+	background-color: white;
 	width: 85%;
 }
 
@@ -164,7 +165,7 @@ p  {
 
 .site-header {
 	text-align: center;
-	margin: 0 auto;
+	margin: 0 auto 0 auto;
 }
 
 .post-content {
@@ -253,7 +254,6 @@ p  {
 	left: 0;
 	right: 0;
 	z-index: 999;
-	top: 100px;
 }
 
 h1 {
