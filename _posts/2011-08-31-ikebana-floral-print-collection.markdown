@@ -19,4 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p><img class="aligncenter size-full wp-image-1546" alt="FBikebanacollection" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;FBikebanacollection.jpg" width="795" height="600" &#47;></p>
+<p><img class="aligncenter size-full wp-image-1546" alt="FBikebanacollection" src="http://colinwoodforddesign.com/wp-content/uploads/2011/08/FBikebanacollection.jpg" width="795" height="600" /></p>

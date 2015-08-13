@@ -20,4 +20,4 @@ tags: []
 comments: []
 ---
 <p>I wanted to create fashion images for my main web page that immediately convey casual elegance for special occasions, entertaining, and romance.<br />
-<img class="aligncenter size-full wp-image-1576" alt="CW.comMainPg" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;uploads&#47;2012&#47;11&#47;CW.comMainPg.jpg" width="576" height="376" &#47;></p>
+<img class="aligncenter size-full wp-image-1576" alt="CW.comMainPg" src="http://colinwoodforddesign.com/wp-content/uploads/2012/11/CW.comMainPg.jpg" width="576" height="376" /></p>

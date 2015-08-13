@@ -38,6 +38,6 @@ comments: []
     </div>
 </div>
 
-<&#47;span><&#47;p></p>
-<p style="text-align: center;"> <a href="http:&#47;&#47;colinwoodford.com">www.colinwoodford.com<&#47;a><&#47;p><br />
-<img class="aligncenter size-full wp-image-1617" alt="newhandsketches" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;uploads&#47;2013&#47;07&#47;newhandsketches.png" width="609" height="307" &#47;></p>
+</span></p></p>
+<p style="text-align: center;"> <a href="http://colinwoodford.com">www.colinwoodford.com</a></p><br />
+<img class="aligncenter size-full wp-image-1617" alt="newhandsketches" src="http://colinwoodforddesign.com/wp-content/uploads/2013/07/newhandsketches.png" width="609" height="307" /></p>

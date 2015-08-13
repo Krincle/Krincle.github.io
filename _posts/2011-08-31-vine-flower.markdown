@@ -19,4 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p><img class="size-thumbnail wp-image-773 alignleft" alt="slider2" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;slider2-125x125.jpg" width="125" height="125" &#47;></p>
+<p><img class="size-thumbnail wp-image-773 alignleft" alt="slider2" src="http://colinwoodforddesign.com/wp-content/uploads/2011/08/slider2-125x125.jpg" width="125" height="125" /></p>

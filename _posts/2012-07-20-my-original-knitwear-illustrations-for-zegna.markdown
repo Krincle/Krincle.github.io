@@ -19,4 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p><img class="aligncenter size-full wp-image-1632" alt="KnitWearZegna" src="http:&#47;&#47;colinwoodforddesign.com&#47;wp-content&#47;uploads&#47;2012&#47;07&#47;KnitWearZegna.png" width="588" height="896" &#47;></p>
+<p><img class="aligncenter size-full wp-image-1632" alt="KnitWearZegna" src="http://colinwoodforddesign.com/wp-content/uploads/2012/07/KnitWearZegna.png" width="588" height="896" /></p>
