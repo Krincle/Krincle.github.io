@@ -144,7 +144,9 @@ p {
 .gallery-woolrich{
 	height: 555px;
 }
-
+.post-ikebana{
+	width: 680px;
+}
 .frontpage-posts {
 	text-align: center;
 	margin: 20px auto;
