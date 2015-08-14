@@ -153,8 +153,8 @@ p {
 }
 
 .navigation {
-	font-size: 24px;
-	margin: 0 auto;
+	font-size: 16px;
+	margin: 10px;
 }
 
 .navigation li {
@@ -166,11 +166,6 @@ p {
 	vertical-align: bottom;
 	width: 303px;
 	height: 71px;
-}
-
-.site-header {
-	text-align: center;
-	margin: 0 auto 0 auto;
 }
 
 .post-content {
@@ -253,12 +248,26 @@ p {
 	text-align: center;
 }
 
+.site-header {
+	clear: both;
+	align-content: center;
+	text-align: center;
+	float: inherit;
+	display: inline;
+}
+
+.top-logo {
+	position: relative;
+    display: inline;
+	float: inherit;
+	z-index: 999;
+}
+
 .top-menu {
-	position: absolute;
-	margin-left: auto;
-	margin-right: auto;
-	left: 0;
-	right: 0;
+	text-align: center;
+	position: relative;
+  	padding: 0 0 0 10px;
+	text-transform: uppercase;
 	z-index: 999;
 }
 
