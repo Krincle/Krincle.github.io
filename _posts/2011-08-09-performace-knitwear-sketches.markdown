@@ -19,4 +19,6 @@ categories:
 tags: []
 comments: []
 ---
+<div class = "posts-box">
 <p>[nggallery id=30]</p>
+</div>

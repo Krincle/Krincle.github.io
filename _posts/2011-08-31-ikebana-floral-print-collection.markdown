@@ -19,4 +19,6 @@ categories:
 tags: []
 comments: []
 ---
+<div class = "posts-box">
 <p><img class="aligncenter size-full wp-image-1546" alt="FBikebanacollection" src="http://colinwoodforddesign.com/wp-content/uploads/2011/08/FBikebanacollection.jpg" width="795" height="600" /></p>
+</div>

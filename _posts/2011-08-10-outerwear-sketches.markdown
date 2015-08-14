@@ -19,6 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<div class = "posts-box">
 <p>[nggallery id=29]</p>
 <p>[nggallery id=43]</p>
 <p><a title="" href="http://colinwoodforddesign.com/wp-content/gallery/outerwear-wide/outerwear1c-bordermaker.jpg"><img class="ngg-singlepic ngg-center" alt="outerwear1c-bordermaker" src="http://colinwoodforddesign.com/wp-content/gallery/outerwear-wide/thumbs/thumbs_outerwear1c-bordermaker.jpg" /></a></p>
@@ -36,3 +37,4 @@ comments: []
 <p><a title="" href="http://colinwoodforddesign.com/wp-content/gallery/outerwear-wide/outerwear11c-bordermaker.jpg"><img class="ngg-singlepic ngg-center" alt="outerwear11c-bordermaker" src="http://colinwoodforddesign.com/wp-content/gallery/outerwear-wide/thumbs/thumbs_outerwear11c-bordermaker.jpg" /></a></p>
 <p>[nggallery id=56]</p>
 <p><a title="" href="http://colinwoodforddesign.com/wp-content/gallery/outerwear-wide/outerwear12c-bordermaker.jpg"><img class="ngg-singlepic ngg-center" alt="outerwear12c-bordermaker" src="http://colinwoodforddesign.com/wp-content/gallery/outerwear-wide/thumbs/thumbs_outerwear12c-bordermaker.jpg" /></a></p>
+</div>

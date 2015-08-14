@@ -19,6 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<div class = "posts-box">
 <h3><a href="http://colinwoodforddesign.com/wp-content/uploads/2011/08/dateshirt.jpg"><img class="size-large wp-image-14 aligncenter" title="dateshirt" src="http://colinwoodforddesign.com/wp-content/uploads/2011/08/dateshirt-1024x826.jpg" alt="" width="584" height="471" /></a>
 <p><strong>Hey Men...this is what we really want you to wear......</strong></h3></p>
 <h3>What is the Date shirt? An idea born from attraction? Pure passion?</h3><br />
@@ -33,3 +34,4 @@ How does a man attract a women?<br />
 <p>(by Michele, the wife of the Date shirt designer Colin Woodford)</p>
 <p><strong>Be that man, the man with the date shirt.</strong></p>
 <p><a href="http://thedateshirt.com/" target="_blank">Read More Here</a></p>
+</div>

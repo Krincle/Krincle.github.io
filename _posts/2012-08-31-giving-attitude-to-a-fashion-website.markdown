@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<div class = "posts-box">
 <p>I wanted to create fashion images for my main web page that immediately convey casual elegance for special occasions, entertaining, and romance.<br />
 <img class="aligncenter size-full wp-image-1576" alt="CW.comMainPg" src="http://colinwoodforddesign.com/wp-content/uploads/2012/11/CW.comMainPg.jpg" width="576" height="376" /></p>
+</div>

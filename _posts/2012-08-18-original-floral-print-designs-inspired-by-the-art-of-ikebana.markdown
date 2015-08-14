@@ -20,5 +20,7 @@ tags: []
 comments: []
 ---
 
-
+<div class = "posts-box">
+<img src = "banner6.jpg>
+</div>
 

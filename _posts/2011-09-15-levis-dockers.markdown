@@ -18,6 +18,8 @@ categories: []
 tags: []
 comments: []
 ---
+<div class = "posts-box">
 <p>Reporting to Bob Siegel, President of the Levi Strauss & Co.&rsquo;s Menswear Division, Colin Woodford designed and developed the initial Dockers&rsquo;s Authentic Men&rsquo;s Shirt line in 1991.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+</div>

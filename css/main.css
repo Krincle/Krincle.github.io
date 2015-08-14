@@ -287,3 +287,10 @@ h1 {
 	background-color: white;
 	width: 45%;
 }
+
+.posts-box{
+	border: 0px solid white;
+	margin: 0 auto 0 auto;
+	background-color: white;
+	width: 35%;
+}

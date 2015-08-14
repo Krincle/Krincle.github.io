@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<div class = "posts-box">
 <p>Limited edition floral art prints exclusively designed for the Date shirt, made in &nbsp;100% cotton, pre-washed with a soft hand touch in a new exclusive fit. Exclusively available at <a href="http://colinwoodford.com">www.colinwoodford.com</a></p>
 <p><a href="http://colinwoodford.com"><img class="aligncenter size-full wp-image-1552" alt="" src="http://colinwoodforddesign.com/wp-content/uploads/2013/06/FBikebanacollection.jpg" width="520" height="440" /></a></p>
+</div>

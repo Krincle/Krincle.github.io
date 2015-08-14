@@ -19,4 +19,6 @@ categories:
 tags: []
 comments: []
 ---
+<div class = "posts-box">
 <p><img class="size-thumbnail wp-image-773 alignleft" alt="slider2" src="http://colinwoodforddesign.com/wp-content/uploads/2011/08/slider2-125x125.jpg" width="125" height="125" /></p>
+</div>
