@@ -34,6 +34,8 @@ body {
 
 p {
 	color: #000;
+	margin-left: .5cm;
+	margin-right: .5cm;
 }
 
 .post-title {
@@ -178,6 +180,7 @@ p {
 	list-style-position: inside;
 	margin-left: 1cm;
 	margin-right: 1cm;
+	color: #000;
 }
 
 .post-link {

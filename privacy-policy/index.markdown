@@ -31,7 +31,7 @@ comments: []
         We may use the email address to respond to their inquiries, questions, and/or other requests.
     </li>
 </ul><br/>
-<b>How we protect your information</b><br /><br />
+<p><b>How we protect your information</b><br /><br />
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 <br /><br />
 Our Site is in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
@@ -53,4 +53,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 </p>
 <br />
 <a href="http://colinwoodforddesign.com/contact/">http://colinwoodforddesign.com/contact/</a>
+</p>
 </div>
