@@ -162,11 +162,6 @@ p {
 	padding: 0 10px 0 10px;
 }
 
-.logo {
-	vertical-align: bottom;
-	width: 303px;
-	height: 71px;
-}
 
 .post-content {
 	margin-left: 200px;
@@ -256,6 +251,13 @@ p {
 	display: inline;
 }
 
+.logo{
+	position: relative;
+    display: inline;
+	float: inherit;
+	z-index: 999;
+}
+
 .top-logo {
 	position: relative;
     display: inline;
@@ -316,3 +318,4 @@ h3{
 	background-color: white;
 	width: 55%;
 }
+
