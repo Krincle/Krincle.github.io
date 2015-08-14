@@ -274,7 +274,10 @@ p {
 }
 
 h1 {
-	font-size: 24pt;
+	font-size: 30pt;
+	font-family: header-font;
+	line-height: 40px;
+	color: #000000;
 }
 
 h3{
