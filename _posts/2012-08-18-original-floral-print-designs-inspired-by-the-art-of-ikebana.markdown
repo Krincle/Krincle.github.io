@@ -21,6 +21,6 @@ comments: []
 ---
 
 <div class = "posts-box">
-<img src = "banner6.jpg>
+<img src = "images/banner6.jpg">
 </div>
 

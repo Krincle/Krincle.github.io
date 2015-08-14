@@ -6,7 +6,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: whitesmoke;
+	color: #cccccc;
 	font-family: bree-web, Bree, sans-serif;
 	font-kerning: auto;
 	font-stretch: normal;
@@ -17,7 +17,7 @@ a {
 }
 
 a:hover {
-	color = #ccc;
+	color: #7c7c7c;
 	text-decoration: underline;
 }
 
@@ -32,10 +32,8 @@ body {
 	font-size: 16pt;
 }
 
-p  {
+p {
 	color: #000;
-    margin-left: 1cm;
-	margin-right: 1cm;
 }
 
 .post-title {
@@ -261,6 +259,14 @@ h1 {
 	font-size: 24pt;
 }
 
+h3{
+
+	font-size: 16pt;
+	color: #000000;
+	margin-left: 1cm;
+	margin-right: 1cm;
+}
+
 .post-title {
 	position: absolute;
 	margin-left: auto;
@@ -292,5 +298,5 @@ h1 {
 	border: 0px solid white;
 	margin: 0 auto 0 auto;
 	background-color: white;
-	width: 35%;
+	width: 40%;
 }
