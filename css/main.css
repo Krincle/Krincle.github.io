@@ -344,6 +344,7 @@ h3{
 	margin: 0 auto 0 auto;
 	background-color: white;
 	width: 45%;
+	padding: 20px;
 }
 
 .posts-box{
@@ -355,12 +356,12 @@ h3{
 
 li {
 	list-style-type: none !important;
-}
-
-ul {
 	margin: 0;
 }
 
+#slider ul {
+	margin: 0;
+}
 
 @media only screen and (min-width:960px) {
 	.posts-box {
