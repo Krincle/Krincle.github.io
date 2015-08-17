@@ -1,3 +1,33 @@
+@font-face {
+	font-family: "header-font";
+	src: url("/fonts/timesbd.ttf");
+}
+@font-face {
+	font-family: "body-font";
+	src: url("/fonts/century_gothic.TTF");
+}
+@font-face {
+	font-family: "lists-font";
+	src: url("/fonts/century_gothic.TTF");
+}
+@font-face {
+	font-family: "custom-one";
+	src: url("/fonts/century_gothic.TTF");
+}
+@font-face {
+	font-family: "ie_custom-one";
+	src: url("/fonts/century_gothic.TTF");
+}h1, h2, h3, h4, h5, h6, h7	{
+	font-family: "header-font"!important;
+}p, em, div	{
+	 font-family: "body-font"!important;
+ }
+li	{
+	font-family: "lists-font"!important;
+}#nav	{
+	 font-family: "custom-one"!important;
+ }
+
 body {
 	background-color: #303030;
 	color: white;
@@ -7,7 +37,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: white;
+	color: #aaa;
 }
 
 a:hover {
@@ -332,4 +362,3 @@ h3{
 	background-color: white;
 	width: 85%;
 }
-
