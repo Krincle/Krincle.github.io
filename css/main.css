@@ -303,17 +303,8 @@ p {
 
 .logo{
 	position: relative;
-    display: inline;
-	float: inherit;
-	z-index: 999;
-	top: 30px;
-}
-
-.top-logo {
-	position: relative;
-    display: inline;
-	float: inherit;
-	z-index: 999;
+	top: 35px;
+	left: -35px;
 }
 
 .top-menu {
@@ -321,7 +312,6 @@ p {
 	position: relative;
   	padding: 0 0 0 10px;
 	text-transform: uppercase;
-	z-index: 999;
 }
 
 h1 {
@@ -360,7 +350,7 @@ h3{
 	border: 0px solid white;
 	margin: 0 auto 0 auto;
 	background-color: white;
-	width: 85%;
+
 }
 
 li {
@@ -369,4 +359,11 @@ li {
 
 ul {
 	margin: 0;
+}
+
+
+@media only screen and (min-width:960px) {
+	.posts-box {
+		width: 75%;
+	}
 }
