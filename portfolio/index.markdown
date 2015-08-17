@@ -21,7 +21,7 @@ comments: []
 
 
 <br />
-<div>
+<div class = "gallery2">
   <ul class="portfolio-list">
     <li class="top"><a href="/portfolio/banana-reoublictravel-safari-clothing-co/">Banana Republic</a></li>
     <li><a href="/portfolio/country-road-austrailia/">Country Road Australia</a></li>
