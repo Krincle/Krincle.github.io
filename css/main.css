@@ -363,8 +363,14 @@ li {
 	margin: 0;
 }
 
-@media only screen and (min-width:960px) {
+@media only screen and (min-width: 768px) {
 	.posts-box {
 		width: 75%;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.post-logo {
+		margin-top: 60px;
 	}
 }
