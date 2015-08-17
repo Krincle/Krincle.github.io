@@ -179,3 +179,7 @@ div#bg { z-index: 1; }
 #slider_dots li.act{
     background-position: 0 -24px;
 }
+
+#slider_dots li{
+    background-image: url(/images/night_slider_dots.png);
+}
