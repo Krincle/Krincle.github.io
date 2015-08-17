@@ -370,3 +370,7 @@ h3{
 li {
 	list-style-type: none !important;
 }
+
+ul {
+	margin: 0;
+}
