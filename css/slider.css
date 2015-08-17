@@ -1,0 +1,181 @@
+/* [4. Slider] */
+#slider{
+    width: 976px;
+    height: 236px;
+    margin: 0 auto -6px auto;
+    position: relative;
+    background: url(/images/slider_bg.png) no-repeat center 0;
+}
+.slot{
+    position: absolute;
+    overflow: hidden;
+}
+.slot ul{
+    height: 100%;
+}
+.slot ul li{
+    position: relative;
+}
+.slot ul li, .slot ul li img{
+    float: left;
+}
+#slot_left li, #slot_right li, #slot_left li img, #slot_right li img{
+    width: 260px;
+    height: 155px;
+}
+#slot_center li, #slot_center li img{
+    width: 320px;
+    height: 190px;
+}
+/*.slot a{
+    display: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-decoration: none;
+    padding: 10px 20px 0px 20px;
+    width: 220px;
+    height: 145px;
+    background: url(/images/night_slot_bg.png) repeat;
+    color: #272727;
+    text-shadow: 1px 1px 0 #fff;
+}
+.slot ul li:hover a{
+    display: block;
+}
+#slot_center a{
+padding: 10px 30px 0px 30px;
+width: 260px;
+height: 180px;
+}*/
+.slot h4{
+    width: 220px;
+    height: 30px;
+    padding: 10px 0 0 0;
+    overflow: hidden;
+}
+#slot_center h4{
+    width: 280px;
+}
+.slot span{
+    display: block;
+    width: 220px;
+    height: 80px;
+    padding: 0;
+    overflow: hidden;
+}
+#slot_center span{
+    width: 280px;
+    height: 120px;
+}
+.slot p{
+    margin: 0;
+    padding: 0;
+}
+
+/* IE7 z-index bug fix for slider */
+div#bg div#header ul#nav li.parent div { z-index: 23; }
+div#bg div#header ul#nav li.parent { z-index: 22; }
+div#bg div#header ul#nav { z-index: 21; }
+div#bg div#header { z-index: 20; }
+div#bg div#slider div.slot ul { z-index: 4; }
+div#bg div#slider div.slot { z-index: 3; }
+div#bg div#slider .do_slide { z-index: 19; }
+div#bg div#slider { z-index: 2; }
+div#bg { z-index: 1; }
+
+#slides { display: none; }
+
+.slot ul li {
+    position: absolute;
+}
+.slot .desc {
+    visibility: hidden;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    z-index: 999;
+    text-decoration: none;
+    padding: 10px 20px 0px 20px;
+    width: 220px;
+    height: 145px;
+    background: url(/images/night_slot_bg.png) repeat;
+    color: #272727;
+    text-shadow: 1px 1px 0 #e8e8e8;
+    cursor: pointer;
+}
+#slot_center.slot .desc {
+    width: 320px;
+    height: 190px;
+}
+#form_prev {
+    margin: 20px 0 10px;
+}
+#form_prev_holder .header {
+    margin: 0;
+}
+
+#slot_left, #slot_right{
+    width: 260px;
+    height: 155px;
+    top: 35px;
+}
+#slot_left{
+    left: 28px;
+}
+#slot_right{
+    right: 28px;
+}
+#slot_center{
+    width: 320px;
+    height: 190px;
+    top: 10px;
+    left: 328px;
+}
+.do_slide{
+    display: block;
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 90px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+.do_slide:hover{
+    background-position: 0 -44px;
+}
+.do_slide.left{
+    left: 0;
+    background-image: url(/images/do_slide_left.png);
+    z-index: 5000;
+}
+.do_slide.right{
+    right: 0;
+    background-image: url(/images/do_slide_right.png);
+    z-index: 5000;
+}
+#slider_dots{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    height: 12px;
+    left: 0;
+    bottom: 0;
+    cursor: default;
+}
+#slider_dots li{
+    display: inline-block;
+    width: 11px;
+    height: 12px;
+    cursor: pointer;
+    padding: 0 2px 0 2px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    vertical-align: top;
+}
+#slider_dots li:hover{
+    background-position: 0 -12px;
+}
+#slider_dots li.act{
+    background-position: 0 -24px;
+}

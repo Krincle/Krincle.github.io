@@ -366,3 +366,7 @@ h3{
 	background-color: white;
 	width: 85%;
 }
+
+li {
+	list-style-type: none !important;
+}
