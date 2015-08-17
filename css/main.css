@@ -2,18 +2,12 @@ body {
 	background-color: #303030;
 	color: white;
 	text-align: left;
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', Arial, san-serif;
 }
 
 a {
 	text-decoration: none;
-	color: #cccccc;
-	font-family: bree-web, Bree, sans-serif;
-	font-kerning: auto;
-	font-stretch: normal;
-	font-style: normal;
-	font-variant: normal;
-	font-variant-ligatures: normal;
-	font-weight: 300;
+	color: white;
 }
 
 a:hover {
@@ -70,6 +64,32 @@ p {
 	margin: 0 auto 0 auto;
 	background-color: white;
 	width: 55%;
+	padding: 10px;
+}
+
+.gallery1, .gallery2, .contact, p {
+	font-family: body-font;
+	font-kerning: auto;
+	font-size: 16px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-ligatures: normal;
+	font-weight: normal;
+	text-shadow: rgb(255, 255, 255) 1px 1px 0px;
+}
+
+.navigation li {
+	text-shadow: rgb(0, 0, 0) 1px 1px 0px !important;
+	font-family: Arial, Helvetica, sans-serif !important;
+	font-kerning: auto;
+	font-size: 18px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-ligatures: normal;
+	font-weight: bold;
+	text-transform: uppercase;
 }
 
 .gallery-one-line {
@@ -188,6 +208,7 @@ p {
 }
 .tagline div {
 	margin: 0 auto;
+	font-size: 16px !important;
 }
 
 .clear {
@@ -286,16 +307,6 @@ h3{
 	color: #000000;
 	margin-left: 1cm;
 	margin-right: 1cm;
-}
-
-.post-title {
-	position: absolute;
-	margin-left: auto;
-	margin-right: auto;
-	left: 0;
-	right: 0;
-	top: 300px;
-	z-index: 999;
 }
 
 .dots {
