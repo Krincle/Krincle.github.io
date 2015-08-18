@@ -391,6 +391,10 @@ li {
     .logo {
 	    position: static;
     }
+
+    .gallery2, .contact {
+	    width: 85%;
+    }
 }
 
 ul {
