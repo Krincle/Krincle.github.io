@@ -21,6 +21,13 @@ comments: []
 ---
 
 <div class = "posts-box">
-<img src = "images/banner6.jpg" class="post-ikebana">
+<p>
+Hand drawn prints layouts for Japanese cotton fabric…
+<br />
+<font size = "1px">Exclusively available at www.colinwoodford.com</font>
+<br />
+<img src = "/images/art01.png">
+
+</p>
 </div>
 
