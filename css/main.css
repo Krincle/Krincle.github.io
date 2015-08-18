@@ -24,7 +24,9 @@
  }
 li	{
 	font-family: "lists-font"!important;
-}#nav	{
+}
+
+#nav	{
 	 font-family: "custom-one"!important;
  }
 
@@ -54,13 +56,12 @@ body {
 	font-variant-ligatures: normal;
 	font-weight: normal;
 	font-size: 16pt;
-	padding-top: 20px;
+	padding-top: 10px;
 }
 
 p {
-	color: #000;
-	margin-left: .5cm;
-	margin-right: .5cm;
+	margin-left: .5em;
+	margin-right: .5em;
 }
 
 .post-title {
@@ -98,16 +99,21 @@ p {
 	padding: 10px;
 }
 
-.gallery1, .gallery2, .contact, p {
+.gallery1, .gallery2, .contact {
 	font-family: body-font;
 	font-kerning: auto;
-	font-size: 16px;
+	font-size: 12px;
 	font-stretch: normal;
 	font-style: normal;
 	font-variant: normal;
 	font-variant-ligatures: normal;
 	font-weight: normal;
 	text-shadow: rgb(255, 255, 255) 1px 1px 0px;
+	color: rgb(83, 83, 83);
+}
+
+.contact {
+	font-size: 14px;
 }
 
 .navigation li {
@@ -219,8 +225,8 @@ p {
 
 .privacy-policy-list {
 	list-style-position: inside;
-	margin-left: 1cm;
-	margin-right: 1cm;
+	margin-left: 1em;
+	margin-right: 1em;
 	color: #000;
 }
 
@@ -293,6 +299,10 @@ p {
 	text-align: center;
 }
 
+.portfolio-list li {
+	font-size: 18px;
+}
+
 .site-header {
 	clear: both;
 	align-content: center;
@@ -321,12 +331,12 @@ h1 {
 	color: #000000;
 }
 
-h3{
+h3 {
 
 	font-size: 16pt;
 	color: #000000;
-	margin-left: 1cm;
-	margin-right: 1cm;
+	margin-left: 1em;
+	margin-right: 1em;
 }
 
 .dots {
@@ -378,4 +388,21 @@ li {
 ul {
 	-webkit-padding-start: 0px;
 	-moz-padding-start: 0px;
+}
+
+.bio-pic {
+	background: #fff;
+	border: solid #fff 5px;
+	-webkit-box-shadow: 0px 0px 3px #888;
+	-moz-box-shadow: 0px 0px 3px #888;
+	box-shadow: 0px 0px 3px #888;
+	position: relative;
+	max-width: 590px;
+	margin: 0 20px 10px 0;
+}
+
+h1 {
+	font-family: "header-font"!important;
+	font-size: 28px;
+	text-shadow: rgb(255, 255, 255) 1px 1px 0px;
 }
