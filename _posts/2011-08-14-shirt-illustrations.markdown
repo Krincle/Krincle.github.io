@@ -19,4 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>[nggallery id=67]</p>
+<p>&nbsp;</p>
